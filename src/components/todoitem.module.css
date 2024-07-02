@@ -1,0 +1,11 @@
+.item {
+  width: 500px;
+  color: rgb(107, 10, 10);
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.name {
+  font-weight: bold;
+  padding: 20px;
+}
